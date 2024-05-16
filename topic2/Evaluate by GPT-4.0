@@ -1,0 +1,86 @@
+propmt: Give me a good criteria to good presentation powerpoint, score 0-10
+
+1. **Clarity and Focus (10 points)**
+   - **10-9:** The presentation is clear, focused, and easy to follow. Each slide conveys a single idea effectively.
+   - **8-7:** Mostly clear, with minor instances of ambiguity or clutter.
+   - **6-5:** Somewhat clear, but several slides have multiple ideas or are confusing.
+   - **4-3:** Frequently unclear or unfocused, making it hard to follow the main points.
+   - **2-1:** Mostly unclear or very difficult to understand.
+   - **0:** Completely unclear, with no discernible focus.
+
+2. **Design and Visual Appeal (10 points)**
+   - **10-9:** The design is professional and visually appealing, with consistent fonts, colors, and layouts.
+   - **8-7:** Generally good design, but with minor inconsistencies or slightly less appealing visuals.
+   - **6-5:** Average design, with noticeable inconsistencies or less professional appearance.
+   - **4-3:** Poor design, with significant inconsistencies and lack of visual appeal.
+   - **2-1:** Very poor design, making the presentation look unprofessional.
+   - **0:** No design consideration, extremely unattractive visuals.
+
+3. **Content Quality (10 points)**
+   - **10-9:** Content is accurate, well-researched, and highly relevant to the topic.
+   - **8-7:** Mostly accurate and relevant, with minor errors or irrelevant information.
+   - **6-5:** Somewhat accurate, with noticeable errors or irrelevant information.
+   - **4-3:** Frequently inaccurate or irrelevant.
+   - **2-1:** Mostly inaccurate or irrelevant.
+   - **0:** Completely inaccurate or irrelevant.
+
+4. **Engagement and Interaction (10 points)**
+   - **10-9:** Highly engaging, with interactive elements or thought-provoking questions.
+   - **8-7:** Generally engaging, with some interactive elements.
+   - **6-5:** Moderately engaging, but lacking in interactive elements.
+   - **4-3:** Minimally engaging, with few or no interactive elements.
+   - **2-1:** Very little engagement, mostly passive.
+   - **0:** No engagement or interaction at all.
+
+5. **Use of Multimedia (10 points)**
+   - **10-9:** Effective use of multimedia (images, videos, audio) to enhance understanding.
+   - **8-7:** Good use of multimedia, but could be improved slightly.
+   - **6-5:** Average use of multimedia, with some elements not effectively used.
+   - **4-3:** Poor use of multimedia, with many elements not enhancing the presentation.
+   - **2-1:** Very poor use of multimedia, often distracting or irrelevant.
+   - **0:** No multimedia used at all.
+
+6. **Timing and Pacing (10 points)**
+   - **10-9:** Well-timed and paced, with smooth transitions between slides.
+   - **8-7:** Generally well-timed, with minor issues in pacing or transitions.
+   - **6-5:** Average timing, with noticeable issues in pacing or transitions.
+   - **4-3:** Poor timing, often rushed or too slow, with awkward transitions.
+   - **2-1:** Very poor timing, consistently rushed or dragging, with jarring transitions.
+   - **0:** No consideration for timing or pacing.
+
+7. **Grammar and Language (10 points)**
+   - **10-9:** Perfect grammar and language, with clear and concise wording.
+   - **8-7:** Good grammar and language, with minor errors.
+   - **6-5:** Average grammar and language, with noticeable errors.
+   - **4-3:** Poor grammar and language, with frequent errors.
+   - **2-1:** Very poor grammar and language, making the presentation difficult to understand.
+   - **0:** Almost unintelligible due to grammatical and language errors.
+
+8. **Audience Consideration (10 points)**
+   - **10-9:** Tailored perfectly to the audience, with appropriate tone and content.
+   - **8-7:** Generally appropriate for the audience, with minor misjudgments.
+   - **6-5:** Average consideration of the audience, with noticeable misjudgments.
+   - **4-3:** Poor consideration of the audience, often inappropriate in tone or content.
+   - **2-1:** Very poor consideration of the audience, frequently inappropriate.
+   - **0:** No consideration for the audience.
+
+9. **Originality and Creativity (10 points)**
+   - **10-9:** Highly original and creative, with innovative ideas and approaches.
+   - **8-7:** Generally original and creative, with some unique elements.
+   - **6-5:** Average originality and creativity, with few unique elements.
+   - **4-3:** Poor originality and creativity, with mostly unoriginal ideas.
+   - **2-1:** Very poor originality and creativity, almost entirely unoriginal.
+   - **0:** No originality or creativity.
+
+10. **Preparation and Organization (10 points)**
+    - **10-9:** Highly prepared and well-organized, with a logical flow.
+    - **8-7:** Generally well-prepared and organized, with minor issues.
+    - **6-5:** Moderately prepared and organized, with noticeable issues.
+    - **4-3:** Poorly prepared and organized, with significant issues.
+    - **2-1:** Very poorly prepared and organized, often chaotic.
+    - **0:** No preparation or organization.
+
+Total score: 0-100 points, with each criterion contributing a maximum of 10 points.
+
+
+prompt: Check two pdfs and score each using the criteria
